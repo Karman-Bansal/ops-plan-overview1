@@ -10,7 +10,7 @@ img { display: block; margin: 10px auto; border-radius: 50%; width: 150px; heigh
 ul { list-style-type: disc; margin-left: 40px; }
 </style>
 </head>
-<body bgcolor="Light Blue">
+<body background-color="Light Blue">
 <h1>OPS Plan Overview</h1>
 <h2>Introduction</h2>
 <p> Student Name: Karmanveer Kaur Bansal <br> Student Number: 991756743 <br> HD supervisor</p>
