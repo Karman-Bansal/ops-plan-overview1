@@ -6,7 +6,6 @@ OPS Plan Overview website
 <style>
 body { background-color: white; font-family: Arial, sans-serif; color: black; font-size: 19px; padding: 20px; }
 h1, h2 { text-align: center; }
-img { display: block; margin: 10px auto; border-radius: 50%; width: 150px; height: 150px; }
 ul { list-style-type: disc; margin-left: 40px; }
 </style>
 </head>
@@ -14,7 +13,7 @@ ul { list-style-type: disc; margin-left: 40px; }
 <h1>OPS Plan Overview</h1>
 <h2>Introduction</h2>
 <p> Student Name: Karmanveer Kaur Bansal <br> Student Number: 991756743 <br> HD supervisor</p>
-<img src="image 2.jpg">
+<iframe width="560" height="315" src="https://youtube.com/shorts/IwfqZF0mnuU" frameborder="0" allowfullscreen></iframe>
 <h3> Reason for Plan </h3>
 <p> To improve internal help desk efficiency this fiscal year. </p>
 <h4> Mission </h4> <p> 
